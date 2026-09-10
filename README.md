@@ -4,3 +4,4 @@ Team members that participated
 Aaliyah Phillips
 Elquin Ponce
 Seth Alvarez
+Kei Fleeks
